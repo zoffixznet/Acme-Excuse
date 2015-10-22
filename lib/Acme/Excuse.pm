@@ -3,6 +3,8 @@ package Acme::Excuse;
 use strict;
 use warnings;
 
+# VERSION
+
 BEGIN {
     use Mojo::UserAgent;
 
